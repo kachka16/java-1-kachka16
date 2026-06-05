@@ -1,8 +1,9 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22355774)
 # Створення класів
 
 Це друга лабораторна робота в нашому курсі з ООП, в ході якої ви маєте отримати навички зі створення класів та тестування їх працездатності. Робота дуже маленька та складається з двох завдань.
 
-## Завдання 1. Створення класу з атрибутами
+
 
 1. **клонуйте** створений для вас репозиторій в Netbeans (детальна інструкція з картинками є [тут](https://netbeans.apache.org/tutorial/main/kb/docs/ide/git/)), **відкрийте** в [Repl.It](https://repl.it/) ([ось](https://docs.replit.com/replit-workspace/using-git-on-replit/running-github-repositories-replit)) покрокова інструкція з картинками), чи [GitHub CodeSpace](https://github.com/features/codespaces) (згадайте минулий семестр!), або **просто завантажте** його вміст у ZIP-форматі (скориставшись кнопкою "Code" > "Download ZIP") і відкрийте в IDE за вашим вибором
 2. створіть **в пакеті ````domain````** клас ```` Сustomer ```` з такими **приватними атрибутами**:
